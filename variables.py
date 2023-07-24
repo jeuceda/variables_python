@@ -13,7 +13,7 @@ El valor maximo de cualquier floating-point number en python es 1.8 x 10e308, ya
 
 n = int(input('Ingresa un numero: '))
 
-suma = n * (n + 1 )
+suma = (n * (n + 1 )/2)
 
 print(variable_1)
 print (suma)
